@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+In here I host my personal projects as well as repos related to my teaching activities.
+
+My research code is hosted somewhere else.
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjeuken)
+
 <!--
 **gjeuken/gjeuken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
